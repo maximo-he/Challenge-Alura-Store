@@ -10,7 +10,6 @@
 ## :file_folder: Archivos
 
 - 'AluraStoreLatam.ipynb': Notebook con el análisis completo, cálculos, visualización y comentarios.
-- 'base-de-datos-challenge1-latam': Base de datos para el análisis.
 - 'Readme.md': Presente archivo, leer con cuidado para su mejor compensión.
 
 ## :wrench: Tecnologías, módulos y librerías utilizadas
