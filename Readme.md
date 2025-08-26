@@ -14,7 +14,7 @@
 
 ## :wrench: Tecnologías, módulos y librerías utilizadas
 
-- Python 3.10+
+- Python 3.10+ 
 - Pandas
 - MatPlotLib
 - Seaborn
